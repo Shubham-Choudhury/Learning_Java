@@ -30,14 +30,14 @@
             <td>Conditional Statements: If-else, Switch Break</td>
             <td><a href="https://www.youtube.com/watch?v=I5srDu75h_M&t=596s">Watch</a></td>
             <td><a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/AC_3_Lecture.java">Code</a></td>
-            <td></td>
+            <td><a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/AC_3_Lecture_Homework_1.java">Homework-1</a><br><a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/AC_3_Lecture_Homework_2.java">Homework-2</a></td>
         </tr>
         <tr>
             <td>Lecture 4</td>
             <td>Loops: For, While, Do-While</td>
             <td><a href="https://www.youtube.com/watch?v=0r1SfRoLuzU">Watch</a></td>
             <td><a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/AC_4_Lecture.java">Code</a></td>
-            <td></td>
+            <td><a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/AC_4_Lecture_Homework_1.java">Homework-1</a><a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/AC_4_Lecture_Homework_2.java">Homework-2</a><br><a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/AC_4_Lecture_Homework_3.java">Homework-3</a></td>
         </tr>
     </tbody>
 </table>

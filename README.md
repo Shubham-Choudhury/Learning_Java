@@ -37,7 +37,21 @@
             <td>Loops: For, While, Do-While</td>
             <td><a href="https://www.youtube.com/watch?v=0r1SfRoLuzU">Watch</a></td>
             <td><a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/AC_4_Lecture.java">Code</a></td>
-            <td><a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/AC_4_Lecture_Homework_1.java">Homework-1</a><a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/AC_4_Lecture_Homework_2.java">Homework-2</a><br><a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/AC_4_Lecture_Homework_3.java">Homework-3</a></td>
+            <td><a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/AC_4_Lecture_Homework_1.java">Homework-1</a><br><a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/AC_4_Lecture_Homework_2.java">Homework-2</a><br><a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/AC_4_Lecture_Homework_3.java">Homework-3</a></td>
+        </tr>
+        <tr>
+            <td>Lecture 5</td>
+            <td>Patterns Questions</td>
+            <td><a href="https://www.youtube.com/watch?v=GjHNGM7KN3w">Watch</a></td>
+            <td><a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/AC_5_Lecture.java">Code</a></td>
+            <td><a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/AC_5_Lecture_Homework.java">Homework</a></td>
+        </tr>
+        <tr>
+            <td>Lecture 6</td>
+            <td>Patterns Questions</td>
+            <td><a href="https://www.youtube.com/watch?v=Dr4PpNa7AYo">Watch</a></td>
+            <td><a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/AC_6_Lecture.java">Code</a></td>
+            <td><a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/AC_6_Lecture_Homework.java">Homework</a></td>
         </tr>
     </tbody>
 </table>

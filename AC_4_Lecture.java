@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class AC_4_Lecture {
     public static void main(String[] args) {
         // ==================== LOOPS ==================== \\
@@ -111,6 +113,33 @@ public class AC_4_Lecture {
             System.out.println("Hello Duniya");
             i++;
         } while (i == 0);
+        System.out.println("====================================\n");
+
+
+        /*
+         * Print the sum of First n Natural Numbers.
+         */
+        System.out.print("Enter a Number: ");
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int sum = 0;
+        for (int j = 1; j <= n; j++) {
+            sum += j;
+        }
+        System.out.println("Sum of First " + n + " Natural Numbers: " + sum);
+        System.out.println("====================================\n");
+
+        /*
+         * Print the table of a number input by user.
+         */
+        System.out.print("Enter a Number: ");
+        n = sc.nextInt();
+        for (int j = 1; j <= 10; j++) {
+            System.out.println(n + " x " + j + " = " + (n * j));
+        }
+        System.out.println("====================================\n");
+
+        sc.close();
 
     }
 }

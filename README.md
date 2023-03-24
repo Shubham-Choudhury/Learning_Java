@@ -60,5 +60,12 @@
             <td><a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/AC_7_Lecture.java">Code</a></td>
             <td><a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/AC_7_Lecture_Homework.java">Homework</a></td>
         </tr>
+        <tr>
+            <td>Lecture 8</td>
+            <td>Practice Questions: Functions</td>
+            <td><a href="https://www.youtube.com/watch?v=pFPZ83mgH00">Watch</a></td>
+            <td><a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/AC_8_Lecture.java">Code</a></td>
+            <td></td>
+        </tr>
     </tbody>
 </table>

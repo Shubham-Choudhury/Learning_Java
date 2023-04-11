@@ -6,36 +6,44 @@
                     <a href="#">Fundamentals of java</a>
                     <ul style="list-style: none;">
                         <li>
-                            <details>
-                                <summary><a href="#">Module 1 - Introduction to java</a></summary>
-                                <ol>
-                                    <li>
-                                        <a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%201%20-%20Introduction%20to%20Java/1.%20Introduction.md">Introduction</a>
-                                    </li>
-                                    <li>
-                                        <a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%201%20-%20Introduction%20to%20Java/2.%20JDK%2C%20JRE%2C%20and%20JVM.md">JDK, JRE, and JVM</a>
-                                    </li>
-                                    <li>
-                                        <a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%201%20-%20Introduction%20to%20Java/3.%20How%20to%20run%20a%20Java%20Code.md">How to run a Java Code</a>
-                                    </li>
-                                </ol>
-                            </details>
+                            <a href="https://github.com/Shubham-Choudhury/Learning_Java/tree/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%201%20-%20Introduction%20to%20Java">Module 1 - Introduction to java</a>
+                            <ol>
+                                <li>
+                                    <a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%201%20-%20Introduction%20to%20Java/1.%20Introduction.md">Introduction</a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%201%20-%20Introduction%20to%20Java/2.%20JDK%2C%20JRE%2C%20and%20JVM.md">JDK, JRE, and JVM</a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%201%20-%20Introduction%20to%20Java/3.%20How%20to%20run%20a%20Java%20Code.md">How to run a Java Code</a>
+                                </li>
+                            </ol>
                         </li>
                         <li>
-                            <details>
-                                <summary><a href="#">Module 2 - Variables and Data types</a></summary>
-                                <ol>
-                                    <li>
-                                        <a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%201%20-%20Introduction%20to%20Java/1.%20Introduction.md">Introduction</a>
-                                    </li>
-                                    <li>
-                                        <a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%201%20-%20Introduction%20to%20Java/2.%20JDK%2C%20JRE%2C%20and%20JVM.md">JDK, JRE, and JVM</a>
-                                    </li>
-                                    <li>
-                                        <a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%201%20-%20Introduction%20to%20Java/3.%20How%20to%20run%20a%20Java%20Code.md">How to run a Java Code</a>
-                                    </li>
-                                </ol>
-                            </details>
+                            <a href="https://github.com/Shubham-Choudhury/Learning_Java/tree/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%202%20-%20Variables%20and%20Data%20types">Module 2 - Variables and Data types</a>
+                            <ol>
+                                <li>
+                                    <a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%202%20-%20Variables%20and%20Data%20types/1.%20Introduction.md">Introduction</a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%202%20-%20Variables%20and%20Data%20types/2.%20Keywords%20in%20Java.md">Keywords in Java</a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%202%20-%20Variables%20and%20Data%20types/3.%20Data%20types%20in%20Java.md">Data types in Java</a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%202%20-%20Variables%20and%20Data%20types/4.%20Scope%20of%20Variables%20in%20Java.md">Scope of Variables in Java</a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%202%20-%20Variables%20and%20Data%20types/5.%20Types%20of%20Variables%20in%20Java.md">Types of Variables in Java</a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%202%20-%20Variables%20and%20Data%20types/6.%20TypeCasting%20in%20Java.md">TypeCasting in Java</a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%202%20-%20Variables%20and%20Data%20types/7.%20Overflow%20and%20Underflow%20in%20Java.md">Overflow and Underflow in Java</a>
+                                </li>
+                            </ol>
                         </li>
                     </ul>
                 </li>

@@ -45,6 +45,17 @@
                                 </li>
                             </ol>
                         </li>
+                        <li>
+                            <a href="https://github.com/Shubham-Choudhury/Learning_Java/tree/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%203%20-%20Basic%20I-O%20in%20Java">Module 3 - Basic I/O in Java</a>
+                            <ol>
+                                <li>
+                                    <a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%203%20-%20Basic%20I-O%20in%20Java/1.%20Introduction%20to%20Basic%20I-O.md">Introduction to Basic I/O</a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%203%20-%20Basic%20I-O%20in%20Java/2.%20Taking%20Input.md">Taking Input</a>
+                                </li>
+                            </ol>
+                        </li>
                     </ul>
                 </li>
                 <li>

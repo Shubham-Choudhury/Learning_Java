@@ -56,6 +56,38 @@
                                 </li>
                             </ol>
                         </li>
+                        <li>
+                            <a href="https://github.com/Shubham-Choudhury/Learning_Java/tree/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%204%20-%20Operators%20in%20Java">Module 4 - Operators in Java</a>
+                            <ol>
+                                <li>
+                                    <a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%204%20-%20Operators%20in%20Java/1.%20Introduction.md">Introduction</a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%204%20-%20Operators%20in%20Java/2.%20Arithmetic%20Operators.md">Arithmetic Operators</a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%204%20-%20Operators%20in%20Java/3.%20Unary%20Operators.md">Unary Operators</a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%204%20-%20Operators%20in%20Java/4.%20Assignment%20Operators.md">Assignment Operators</a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%204%20-%20Operators%20in%20Java/5.%20Relational%20Operators.md">Relational Operators</a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%204%20-%20Operators%20in%20Java/6.%20Logical%20Operators.md">Logical Operators</a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%204%20-%20Operators%20in%20Java/7.%20Bitwise%20Operators.md">Bitwise Operators</a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%204%20-%20Operators%20in%20Java/8.%20Ternary%20Operator.md">Ternary Operator</a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%204%20-%20Operators%20in%20Java/9.%20Instance%20of%20operator.md">Instance of operator</a>
+                                </li>
+                            </ol>
+                        </li>
                     </ul>
                 </li>
                 <li>

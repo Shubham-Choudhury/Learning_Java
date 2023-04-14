@@ -88,6 +88,20 @@
                                 </li>
                             </ol>
                         </li>
+                        <li>
+                            <a href="https://github.com/Shubham-Choudhury/Learning_Java/tree/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%205%20-%20Control%20Statements%20in%20Java">Module 5 - Control Statements in Java</a>
+                            <ol>
+                                <li>
+                                    <a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%205%20-%20Control%20Statements%20in%20Java/1.%20Control%20Statements%20in%20Java.md">Control Statements in Java</a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%205%20-%20Control%20Statements%20in%20Java/2.%20Iteration%20Statements.md">Iteration Statements</a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/Shubham-Choudhury/Learning_Java/blob/main/1%20Core%20java/1%20Fundamentals%20of%20Java/Module%205%20-%20Control%20Statements%20in%20Java/3.%20Jump%20Statements.md">Jump Statements</a>
+                                </li>
+                            </ol>
+                        </li>
                     </ul>
                 </li>
                 <li>

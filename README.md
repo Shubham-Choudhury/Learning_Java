@@ -1,4 +1,3 @@
-<h1>Learning Java</h1>
 
 <ul>
   <li>
